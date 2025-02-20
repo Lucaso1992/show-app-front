@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import styles from "./Navbar.module.css";
 import useAppContext from "../../store/AppContext";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/show.png";
 import SignUp from "../../services/signUp";
 import LogIn from "../../services/login";
 import { FaUserLarge } from "react-icons/fa6";
